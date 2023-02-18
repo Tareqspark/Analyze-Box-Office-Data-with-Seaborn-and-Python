@@ -1,4 +1,4 @@
-Analyze Box Office Data with Seaborn and Python is a guided project titurial offered by coursera. I have taken that course and added the practise file here.
+Analyze Box Office Data with Seaborn and Python is a guided project offered by coursera. I have taken this course and added the practise file here.
 we  will apply various graphical techniques using Seaborn to analyze worldwide box office revenue. We will accomplish this with the help of following tasks in the project:
 
 Data Loading and Exploration
